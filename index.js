@@ -27,8 +27,8 @@ client.on('ready', async () => {
     .setType('PLAYING')//
     .setURL('https://replit.com/@waterhere') //
     .setState('NodeJS <3')//
-    .setName('tejv')//
-    .setDetails('•  Tej  ⛧')//
+    .setName('•  Tej  ⛧')//
+    .setDetails('tejv')//
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://media.discordapp.net/attachments/881571946582667339/1221208242881826876/00950f02ee8d931150d2f97b7276e1e8.gif?ex=6611bdce&is=65ff48ce&hm=502328deaeae23fc13ae88c4a8518defd755f4813a55d09aaaa79d39421d790d&') // Large Image 
     .setAssetsLargeText('Cyber Tej ×') //Text when you hover the Large image
